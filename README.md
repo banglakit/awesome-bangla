@@ -59,6 +59,8 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 ### Others
  - [Bengali Spell Checking](https://github.com/AnkurBD/bengali-spellcheck) (Ankur)
  - [Bagha - Personal Assistant](https://github.com/reyadrahman/Bagha) (Reyad Rahman)
+ - [Avro Online](http://avro.im)
+ - [Probhat Online](http://probhat.im)
  
 ## Programming Langauages (?)
  - [Koro (Go in Bangla)](https://github.com/ChimeraCoder/koro)

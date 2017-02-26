@@ -69,3 +69,4 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 
 ## Websites
 - [Society for Natural Language Technology Research](http://nltr.org/)
+- [Center for Research on Bangla Language Processing, BRACU (Backup Mirror)](http://web.archive.org/web/20150621025544/http://crblp.bracu.ac.bd/)

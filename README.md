@@ -30,6 +30,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 ### NLP Tools
  - [Bangla POS Tagger (HMM/CRF/ME Based)](http://nltr.org/download/iitkgp-resources/Bangla_POS_Tagger_Linux/POS_tagger_Bangla.zip) (IIT, Kharagpur)
  - [Bangla POS Tagger](https://github.com/shm0007/bengali-pos-tagger) (shm0007)
+ - [Bangla POS Tagger](https://github.com/uzl/pos_tagger_1) (uzl)
  - [Morphological Analyzer](http://nltr.org/download/iitkgp-resources/Bangla_Morphological_Analyzer/Morph_analyzer.tar) (IIT, Kharagpur)
  - [Chunker (Rule Based)](http://nltr.org/download/iitkgp-resources/Rul_Base_Chunker/chunkerBinary.tgz) (IIT, Kharagpur)
  - [Chunker (Statistical)](http://nltr.org/download/iitkgp-resources/Statistical_Chunker/chunker_v1.1.tar) (IIT, Kharagpur)
@@ -39,9 +40,14 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Stemmer (Rule Based) (Java)](https://github.com/nayakt/BengaliStemmer_Java) (Tapas Nayak)
  - [Bengali Stemmer (PHP?)](https://github.com/tanveer-preom/BengaliStemmer) (Md. Tanveer Islam, Tanveer Ahmed Nayeem)
  - [Bengali Stemmer (JavaScript)](https://github.com/torifat/bangla-stemmer) (Rifat Nabi)
+ - [Bengali Stemmer (Java) (2015)](https://github.com/tazimhoque/Bangla-Stemmer) (Tazim Hoque)
+ - [Bengali Stemmer (Java) (2017)](https://github.com/sudiptobd/BanglaDocumentRanking_BanglaStemmer) (Sudipto Roy)
  - [Bengali Word Embedding](https://github.com/smafjal/Bengali-Word-Embedding) (Md. Afjal Hossain)
  - [Bengali Wordnet](https://github.com/soumenganguly/Bengali-Wordnet) (Soumen Ganguly)
  - [Bengali Sentiment Analysis (iPython Notebook)](https://github.com/abhie19/Sentiment-Analysis-Bangla-Language) (Abhishek Singh)
+ 
+ ### Dictionary
+  - [Bengali Lexical Dictionary (2012)](https://github.com/abhishekgupta92/lexical_db_bangla) (Abhishek Gupta)
 
 ### OCR
  - [Bangla OCR](https://github.com/kmhasan-class/bangla-ocr) (kmhasan)

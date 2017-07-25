@@ -31,6 +31,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bangla POS Tagger (HMM/CRF/ME Based)](http://nltr.org/download/iitkgp-resources/Bangla_POS_Tagger_Linux/POS_tagger_Bangla.zip) (IIT, Kharagpur)
  - [Bangla POS Tagger](https://github.com/shm0007/bengali-pos-tagger) (shm0007)
  - [Bangla POS Tagger](https://github.com/uzl/pos_tagger_1) (uzl)
+ - [Bangla POS Tagger (XML Based)](https://github.com/sunkuet02/BanglaPosTagger) (sunkuet02) 
  - [Morphological Analyzer](http://nltr.org/download/iitkgp-resources/Bangla_Morphological_Analyzer/Morph_analyzer.tar) (IIT, Kharagpur)
  - [Chunker (Rule Based)](http://nltr.org/download/iitkgp-resources/Rul_Base_Chunker/chunkerBinary.tgz) (IIT, Kharagpur)
  - [Chunker (Statistical)](http://nltr.org/download/iitkgp-resources/Statistical_Chunker/chunker_v1.1.tar) (IIT, Kharagpur)

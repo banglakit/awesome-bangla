@@ -46,9 +46,11 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Word Embedding](https://github.com/smafjal/Bengali-Word-Embedding) (Md. Afjal Hossain)
  - [Bengali Wordnet](https://github.com/soumenganguly/Bengali-Wordnet) (Soumen Ganguly)
  - [Bengali Sentiment Analysis (iPython Notebook)](https://github.com/abhie19/Sentiment-Analysis-Bangla-Language) (Abhishek Singh)
+ - [Keyword Extraction](https://github.com/mahirsust/Code300) [Mahir]
  
  ### Dictionary
   - [Bengali Lexical Dictionary (2012)](https://github.com/abhishekgupta92/lexical_db_bangla) (Abhishek Gupta)
+  - [Bengali Dictionary](https://github.com/MinhasKamal/BengaliDictionary) (Minhas Kamal)
 
 ### OCR
  - [Bangla OCR](https://github.com/kmhasan-class/bangla-ocr) (kmhasan)
@@ -58,6 +60,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Digit Recognition](https://github.com/abhinavagarwalla/BengaliDigitRecognition) (Abhinav Agarwalla)
  - [Bengali Digit Classification](https://github.com/smafjal/CNN-Bengali-Digit-Classification-TF) (Md. Afjal Hossain)
  - [BOCRA](https://github.com/deepayan/bocra) [R Package for Bengali OCR]
+ - [Bengali OCR with CNN](https://github.com/sanjiv0975/Bengali_OCR) (Sanjiv)
  
 ### TTS
  - [Katha - Bangla TTS](https://sourceforge.net/projects/blp/files/Katha_Bangla_TTS/) (CRBLP, BRACU)

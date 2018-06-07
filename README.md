@@ -13,7 +13,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
   - Avro Phonetic Library ([JavaScript](https://github.com/torifat/jsAvroPhonetic), [Go](https://github.com/sadlil/go-avro-phonetic), [C++](https://github.com/mominul/cppAvroPhonetic))
   - [jQuery.IME](https://github.com/wikimedia/jquery.ime) - Supports Avro, Probhat, Inscript, National (BD)
   - [BengaliPhoneticParser.swift](https://github.com/OpenBangla/BengaliPhoneticParser.swift) (OpenBangla)
-  - [Rupantor](https://github.com/OpenBangla/rupantor-rs) - A very flexible Bengali phonetic parser/converter wiritten in Rust. It also supports Avro Phonetic. (OpenBangla)
+  - [Rupantor](https://github.com/OpenBangla/rupantor-rs) - A very flexible Bengali phonetic parser/converter written in Rust. It also supports Avro Phonetic. (OpenBangla)
  
 ### Fixed and Phonetic Input specifications
  - https://en.wikipedia.org/wiki/Bengali_input_methods

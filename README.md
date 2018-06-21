@@ -14,6 +14,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
   - [jQuery.IME](https://github.com/wikimedia/jquery.ime) - Supports Avro, Probhat, Inscript, National (BD)
   - [BengaliPhoneticParser.swift](https://github.com/OpenBangla/BengaliPhoneticParser.swift) (OpenBangla)
   - [Rupantor](https://github.com/OpenBangla/rupantor-rs) - A very flexible Bengali phonetic parser/converter written in Rust. It also supports Avro Phonetic. (OpenBangla)
+  - [bijoy2unicode](https://github.com/Mad-FOX/bijoy2unicode) - A Python package for bidirectional conversion between Bijoy encoding and Unicode Bangla.
  
 ### Fixed and Phonetic Input specifications
  - https://en.wikipedia.org/wiki/Bengali_input_methods

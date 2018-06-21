@@ -4,7 +4,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 ## Typing Tools and Keyboards
  
 ### End-User Products
-  - Avro Keyboard ([Windows](https://www.omicronlab.com/avro-keyboard.html), [Mac](https://www.omicronlab.com/iavro.html), [Linux](http://linux.omicronlab.com/))
+  - Avro Keyboard ([Windows](https://www.omicronlab.com/avro-keyboard.html), [Mac](https://www.omicronlab.com/iavro.html), [Linux](http://linux.omicronlab.com/), [Ubuntu 16.04+](https://github.com/maateen/avro))
   - Ridmik Keyboard ([Android](https://play.google.com/store/apps/details?id=ridmik.keyboard))
   - [OpenBangla Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
   - [Rokeya Keyboard Layout](https://github.com/MythicAngel/rokeya-keyboard-layout)

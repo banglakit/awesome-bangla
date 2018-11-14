@@ -27,6 +27,8 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bangla word-list (Bangla Akademy Banan Abhidhan)](http://nltr.org/download/Bangla_word-list.doc) (SNLTR)
  - [Bangla Speech Corpus](http://downloads.nltr.org/iitkgp-resources/SHRUTI-Bangla_Speech_Corpus.rar) (IIT, Kharagpur)
  - [Bengali Stopwords List](https://github.com/stopwords-iso/stopwords-bn) (stopwords-iso)
+ - [Bangla TTS Speech Corpus](http://www.openslr.org/37) (Google)
+ - [Large Bengali ASR Dataset](http://www.openslr.org/53) (Google)
  
 ## NLP Tools, Scripts and Utilities (also Projects)
 ### NLP Tools

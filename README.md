@@ -23,7 +23,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Corpus Builder](https://github.com/banglakit/corpus-builder) (Aniruddha Adhikary et al, BanglaKit)
  - [Indian Language Part-of-Speech Tagset: Bengali (LDC2010T16)](https://catalog.ldc.upenn.edu/LDC2010T16)
  - [IARPA Babel Bengali Language Pack IARPA-babel103b-v0.4b (LDC2016S08)](https://catalog.ldc.upenn.edu/LDC2016S08)
- - [BanglaLekha Corpus (Handwriting)](http://www.banglalekha.org/dataset/) (ULAB, Dhaka)
+ - [BanglaLekha Corpus (Handwriting)](https://data.mendeley.com/datasets/hf6sf8zrkc/2) (ULAB, Dhaka)
  - [Bangla word-list (Bangla Akademy Banan Abhidhan)](http://nltr.org/download/Bangla_word-list.doc) (SNLTR)
  - [Bangla Speech Corpus](http://downloads.nltr.org/iitkgp-resources/SHRUTI-Bangla_Speech_Corpus.rar) (IIT, Kharagpur)
  - [Bengali Stopwords List](https://github.com/stopwords-iso/stopwords-bn) (stopwords-iso)

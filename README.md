@@ -61,6 +61,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bangla OCR](https://sourceforge.net/projects/blp/files/BanglaOCR/) (CRBLP, BRACU)
  - [Bangla OCR](https://github.com/fnazmul/Bengali_OCR/) (Fariha Nazmul)
  - [Bengali Handwritten OCR with Convolutional NN](https://github.com/dibyatanoy/Bengali-Handwritten-Character-Recognition-Using-Convolutional-Neural-Networks) (Dibyatanoy Bhattacharjee)
+ - [Numta Handwritten Bengali Digit Classification using Transfer Learning](https://github.com/hasibzunair/unconventional-wisdom) (Hasib Zunair, Nabeel Mohammed, Sifat Momen)
  - [Bengali Digit Recognition](https://github.com/abhinavagarwalla/BengaliDigitRecognition) (Abhinav Agarwalla)
  - [Bengali Digit Classification](https://github.com/smafjal/CNN-Bengali-Digit-Classification-TF) (Md. Afjal Hossain)
  - [BOCRA](https://github.com/deepayan/bocra) [R Package for Bengali OCR]

@@ -29,7 +29,9 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Stopwords List](https://github.com/stopwords-iso/stopwords-bn) (stopwords-iso)
  - [Bangla TTS Speech Corpus](http://www.openslr.org/37) (Google)
  - [Large Bengali ASR Dataset](http://www.openslr.org/53) (Google)
- 
+ - [Bangla Handwritten Characters](https://shahariarrabby.github.io/ekush/#home)(DIU, Dhaka)
+ - [Bangla Sign Language Digits and Characters](https://isharalipi.sanzidscloud.com/)(DIU, Dhaka)
+
 ## NLP Tools, Scripts and Utilities (also Projects)
 ### NLP Tools
  - [Bangla POS Tagger (HMM/CRF/ME Based)](http://nltr.org/download/iitkgp-resources/Bangla_POS_Tagger_Linux/POS_tagger_Bangla.zip) (IIT, Kharagpur)

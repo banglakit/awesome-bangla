@@ -21,6 +21,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 
 ## Corpora (Corpus) and Datasets
  - [Corpus Builder](https://github.com/banglakit/corpus-builder) (Aniruddha Adhikary et al, BanglaKit)
+ - [A Language Independent Wikipedia Text Corpus Downloader](https://github.com/Rajan-sust/WikiTextCorpusDownloader)
  - [Indian Language Part-of-Speech Tagset: Bengali (LDC2010T16)](https://catalog.ldc.upenn.edu/LDC2010T16)
  - [IARPA Babel Bengali Language Pack IARPA-babel103b-v0.4b (LDC2016S08)](https://catalog.ldc.upenn.edu/LDC2016S08)
  - [BanglaLekha Corpus (Handwriting)](https://data.mendeley.com/datasets/hf6sf8zrkc/2) (ULAB, Dhaka)

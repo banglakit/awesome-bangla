@@ -54,6 +54,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Wordnet](https://github.com/soumenganguly/Bengali-Wordnet) (Soumen Ganguly)
  - [Bengali Sentiment Analysis (iPython Notebook)](https://github.com/abhie19/Sentiment-Analysis-Bangla-Language) (Abhishek Singh)
  - [Keyword Extraction](https://github.com/mahirsust/Code300) [Mahir]
+ - [Bengali Word2Vec](https://github.com/sagorbrur/Bengali-NLP-Library/tree/master/Word-Embedding/bengali_word2vec) [Sagor]
  
  ### Dictionary
   - [Bengali Lexical Dictionary (2012)](https://github.com/abhishekgupta92/lexical_db_bangla) (Abhishek Gupta)

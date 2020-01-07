@@ -31,7 +31,11 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bangla TTS Speech Corpus](http://www.openslr.org/37) (Google)
  - [Large Bengali ASR Dataset](http://www.openslr.org/53) (Google)
  - [Ekush: Bangla Handwritten Characters](https://shahariarrabby.github.io/ekush) ([DIU](http://nlp.daffodilvarsity.edu.bd), Dhaka)
- - [ISHARA-LIPI: Bangla Sign Language Digits and Characters](https://isharalipi.sanzidscloud.com) ([DIU](http://nlp.daffodilvarsity.edu.bd), Dhaka)
+ - [ISHARA-LIPI: Bangla Sign Language Digits and Characters](https://isharalipi.sanzidscloud.com) ([DIU](http://nlp.daffodilvarsity.edu.bd), Dhaka
+ - [Bengali Large Commoncrawl Dataset](https://traces1.inria.fr/oscar/)
+ - [Bengali Wikipedia Dump Dataset](https://dumps.wikimedia.org/bnwiki/latest/)
+ - [Bengali Open Subtitle Parallel Corpus](http://opus.nlpl.eu/)
+ - [Bengali-English Translation Dataset](http://www.manythings.org/anki/)
 
 ## NLP Tools, Scripts and Utilities (also Projects)
 ### NLP Tools
@@ -53,9 +57,8 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Word Embedding](https://github.com/smafjal/Bengali-Word-Embedding) (Md. Afjal Hossain)
  - [Bengali Wordnet](https://github.com/soumenganguly/Bengali-Wordnet) (Soumen Ganguly)
  - [Bengali Sentiment Analysis (iPython Notebook)](https://github.com/abhie19/Sentiment-Analysis-Bangla-Language) (Abhishek Singh)
- - [Keyword Extraction](https://github.com/mahirsust/Code300) [Mahir]
- - [Bengali Word2Vec](https://github.com/sagorbrur/Bengali-NLP-Library/tree/master/Word-Embedding/bengali_word2vec) [Sagor]
- - [Bengali NLP Library](https://github.com/sagorbrur/bnlp)[Sagor]
+ - [Keyword Extraction](https://github.com/mahirsust/Code300) (Mahir)
+ - [Bengali NLP Library](https://github.com/sagorbrur/bnlp) (Sagor)
  
  ### Dictionary
   - [Bengali Lexical Dictionary (2012)](https://github.com/abhishekgupta92/lexical_db_bangla) (Abhishek Gupta)

@@ -87,7 +87,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bagha - Personal Assistant](https://github.com/reyadrahman/Bagha) (Reyad Rahman)
  - [Avro Online](http://avro.im)
  - [Probhat Online](http://probhat.im)
- - [Bangla Newspaper Classification with Bidirectional LSTM](https://github.com/zabir-nabil/bangla-news-rnn) (Zabir Al Nazi)
+ - [Bangla News Category Classification with Bidirectional LSTM](https://github.com/zabir-nabil/bangla-news-rnn) (Zabir Al Nazi)
  
 ## Programming Langauages (?)
  - [Koro (Go in Bangla)](https://github.com/ChimeraCoder/koro)

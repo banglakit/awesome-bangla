@@ -80,12 +80,14 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Katha - Bangla TTS](https://sourceforge.net/projects/blp/files/Katha_Bangla_TTS/) (CRBLP, BRACU)
  - [Bengali-HTS (HMM-based Bangla TTS)](https://github.com/sankar-mukherjee/Bengali-HTS) (IIT, Kharagpur)
  - Apona Pathok - Bangla TTS (Lost)
+ - [bangla-tts (Deep CNN based real-time (GPU) TTS)](https://github.com/zabir-nabil/bangla-tts) (Zabir Al Nazi)
 
 ### Others
  - [Bengali Spell Checking](https://github.com/AnkurBD/bengali-spellcheck) (Ankur)
  - [Bagha - Personal Assistant](https://github.com/reyadrahman/Bagha) (Reyad Rahman)
  - [Avro Online](http://avro.im)
  - [Probhat Online](http://probhat.im)
+ - [Bangla Newspaper Classification with Bidirectional LSTM](https://github.com/zabir-nabil/bangla-news-rnn) (Zabir Al Nazi)
  
 ## Programming Langauages (?)
  - [Koro (Go in Bangla)](https://github.com/ChimeraCoder/koro)
@@ -95,3 +97,4 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 ## Websites
 - [Society for Natural Language Technology Research](http://nltr.org/)
 - [Center for Research on Bangla Language Processing, BRACU (Backup Mirror)](http://web.archive.org/web/20150621025544/http://crblp.bracu.ac.bd/)
+

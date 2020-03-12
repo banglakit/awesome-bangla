@@ -63,6 +63,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  ### Dictionary
   - [Bengali Lexical Dictionary (2012)](https://github.com/abhishekgupta92/lexical_db_bangla) (Abhishek Gupta)
   - [Bengali Dictionary](https://github.com/MinhasKamal/BengaliDictionary) (Minhas Kamal)
+  - [Cross-platform Bengali Dictionary (Go/QML)](https://github.com/monirz/wordgo) (Monir Zaman)
 
 ### OCR
  - [Bangla OCR](https://github.com/kmhasan-class/bangla-ocr) (kmhasan)

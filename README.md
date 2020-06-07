@@ -65,6 +65,9 @@ A collection of tools, datasets and resources on Bangla computing. This list was
   - [Bengali Dictionary](https://github.com/MinhasKamal/BengaliDictionary) (Minhas Kamal)
   - [Cross-platform Bengali Dictionary (Go/QML)](https://github.com/monirz/wordgo) (Monir Zaman)
 
+### Bangla Machine Translation
+- [Bangla to English Translator](https://github.com/menon92/BanglaTranslator) (Mehadi Hasan Menon)
+
 ### OCR
  - [Bangla OCR](https://github.com/kmhasan-class/bangla-ocr) (kmhasan)
  - [Bangla OCR](https://sourceforge.net/projects/blp/files/BanglaOCR/) (CRBLP, BRACU)

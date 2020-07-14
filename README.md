@@ -1,21 +1,21 @@
 # awesome-bangla
 A collection of tools, datasets and resources on Bangla computing. This list was compiled to help researchers and hobbyists interested in Natural Language Processing with the Bangla (Bengali) language. Please feel free to contribute.
- 
+
 ## Typing Tools and Keyboards
- 
+
 ### End-User Products
   - Avro Keyboard ([Windows](https://www.omicronlab.com/avro-keyboard.html), [Mac](https://www.omicronlab.com/iavro.html), [Linux](http://linux.omicronlab.com/), [Ubuntu 16.04+](https://github.com/maateen/avro))
   - Ridmik Keyboard ([Android](https://play.google.com/store/apps/details?id=ridmik.keyboard))
   - [OpenBangla Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
   - [Rokeya Keyboard Layout](https://github.com/MythicAngel/rokeya-keyboard-layout)
-  
+
 ### Libraries
   - Avro Phonetic Library ([JavaScript](https://github.com/torifat/jsAvroPhonetic), [Go](https://github.com/sadlil/go-avro-phonetic), [C++](https://github.com/mominul/cppAvroPhonetic))
   - [jQuery.IME](https://github.com/wikimedia/jquery.ime) - Supports Avro, Probhat, Inscript, National (BD)
   - [BengaliPhoneticParser.swift](https://github.com/OpenBangla/BengaliPhoneticParser.swift) (OpenBangla)
   - [Rupantor](https://github.com/OpenBangla/rupantor-rs) - A very flexible Bengali phonetic parser/converter written in Rust. It also supports Avro Phonetic. (OpenBangla)
   - [bijoy2unicode](https://github.com/Mad-FOX/bijoy2unicode) - A Python package for bidirectional conversion between Bijoy encoding and Unicode Bangla.
- 
+
 ### Fixed and Phonetic Input specifications
  - https://en.wikipedia.org/wiki/Bengali_input_methods
 
@@ -42,7 +42,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bangla POS Tagger (HMM/CRF/ME Based)](http://nltr.org/download/iitkgp-resources/Bangla_POS_Tagger_Linux/POS_tagger_Bangla.zip) (IIT, Kharagpur)
  - [Bangla POS Tagger](https://github.com/shm0007/bengali-pos-tagger) (shm0007)
  - [Bangla POS Tagger](https://github.com/uzl/pos_tagger_1) (uzl)
- - [Bangla POS Tagger (XML Based)](https://github.com/sunkuet02/BanglaPosTagger) (sunkuet02) 
+ - [Bangla POS Tagger (XML Based)](https://github.com/sunkuet02/BanglaPosTagger) (sunkuet02)
  - [Morphological Analyzer](http://nltr.org/download/iitkgp-resources/Bangla_Morphological_Analyzer/Morph_analyzer.tar) (IIT, Kharagpur)
  - [Chunker (Rule Based)](http://nltr.org/download/iitkgp-resources/Rul_Base_Chunker/chunkerBinary.tgz) (IIT, Kharagpur)
  - [Chunker (Statistical)](http://nltr.org/download/iitkgp-resources/Statistical_Chunker/chunker_v1.1.tar) (IIT, Kharagpur)
@@ -59,7 +59,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Sentiment Analysis (iPython Notebook)](https://github.com/abhie19/Sentiment-Analysis-Bangla-Language) (Abhishek Singh)
  - [Keyword Extraction](https://github.com/mahirsust/Code300) (Mahir)
  - [Bengali NLP Library](https://github.com/sagorbrur/bnlp) (Sagor)
- 
+
  ### Dictionary
   - [Bengali Lexical Dictionary (2012)](https://github.com/abhishekgupta92/lexical_db_bangla) (Abhishek Gupta)
   - [Bengali Dictionary](https://github.com/MinhasKamal/BengaliDictionary) (Minhas Kamal)
@@ -79,7 +79,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [BOCRA](https://github.com/deepayan/bocra) [R Package for Bengali OCR]
  - [Bengali OCR with CNN](https://github.com/sanjiv0975/Bengali_OCR) (Sanjiv)
  - [Bengali Handwritten OCR with CNN](https://github.com/bmabir17/bangla_inception) (BM Abir)
- 
+
 ### TTS
  - [Katha - Bangla TTS](https://sourceforge.net/projects/blp/files/Katha_Bangla_TTS/) (CRBLP, BRACU)
  - [Bengali-HTS (HMM-based Bangla TTS)](https://github.com/sankar-mukherjee/Bengali-HTS) (IIT, Kharagpur)
@@ -92,7 +92,8 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Avro Online](http://avro.im)
  - [Probhat Online](http://probhat.im)
  - [Bangla News Category Classification with Bidirectional LSTM](https://github.com/zabir-nabil/bangla-news-rnn) (Zabir Al Nazi)
- 
+ - [Aurthohin - Gibberish Bangla text generator](https://github.com/lifeparticle/Aurthohin)
+
 ## Programming Langauages (?)
  - [Koro (Go in Bangla)](https://github.com/ChimeraCoder/koro)
  - [Potaka](http://www.potaka.io/)

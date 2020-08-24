@@ -94,6 +94,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Probhat Online](http://probhat.im)
  - [Bangla News Category Classification with Bidirectional LSTM](https://github.com/zabir-nabil/bangla-news-rnn) (Zabir Al Nazi)
  - [Aurthohin - Gibberish Bangla text generator](https://github.com/lifeparticle/Aurthohin)
+ - [Bangla Word2Vec Training and Visualization](https://github.com/NuhashHaque/Bangla-Word2Vec-Training-and-Visualization) (Afnan UL Haque Nuhash)
 
 ## Programming Langauages (?)
  - [Koro (Go in Bangla)](https://github.com/ChimeraCoder/koro)

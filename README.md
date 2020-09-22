@@ -36,6 +36,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Wikipedia Dump Dataset](https://dumps.wikimedia.org/bnwiki/latest/)
  - [Bengali Open Subtitle Parallel Corpus](http://opus.nlpl.eu/)
  - [Bengali-English Translation Dataset](http://www.manythings.org/anki/)
+ - [Bengali Female vs Male Names Dataset for NLP Tasks](https://github.com/faruk-ahmad/bengli-female-vs-male-names)
 
 ## NLP Tools, Scripts and Utilities (also Projects)
 ### NLP Tools
@@ -58,8 +59,10 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Wordnet](https://github.com/soumenganguly/Bengali-Wordnet) (Soumen Ganguly)
  - [Bengali Sentiment Analysis (iPython Notebook)](https://github.com/abhie19/Sentiment-Analysis-Bangla-Language) (Abhishek Singh)
  - [Keyword Extraction](https://github.com/mahirsust/Code300) (Mahir)
- - [Bengali NLP Library](https://github.com/sagorbrur/bnlp) (Sagor)
  - [Bangla NER](https://github.com/imranulashrafi/banner) (Imranul Ashrafi, Muntasir Mohammad, Arani Shawkat Mauree, Galib Md. Azraf Nijhum, Redwanul Karim, Nabeel Mohammed and Sifat Momen)
+ - [Bengali NLP Library(BNLP)](https://github.com/sagorbrur/bnlp) (Sagor)
+ - [Emoji to Bengali Text Translation - Python package for NLP](https://github.com/faruk-ahmad/bnemo) (Faruk & Sagor)
+ - [Bangla BERT Model](https://huggingface.co/sagorsarker/bangla-bert-base) (Sagor)
 
  ### Dictionary
   - [Bengali Lexical Dictionary (2012)](https://github.com/abhishekgupta92/lexical_db_bangla) (Abhishek Gupta)
@@ -94,6 +97,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Probhat Online](http://probhat.im)
  - [Bangla News Category Classification with Bidirectional LSTM](https://github.com/zabir-nabil/bangla-news-rnn) (Zabir Al Nazi)
  - [Aurthohin - Gibberish Bangla text generator](https://github.com/lifeparticle/Aurthohin)
+ - [Bangla Word2Vec Training and Visualization](https://github.com/NuhashHaque/Bangla-Word2Vec-Training-and-Visualization) (Afnan UL Haque Nuhash)
 
 ## Programming Langauages (?)
  - [Koro (Go in Bangla)](https://github.com/ChimeraCoder/koro)

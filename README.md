@@ -59,6 +59,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Wordnet](https://github.com/soumenganguly/Bengali-Wordnet) (Soumen Ganguly)
  - [Bengali Sentiment Analysis (iPython Notebook)](https://github.com/abhie19/Sentiment-Analysis-Bangla-Language) (Abhishek Singh)
  - [Keyword Extraction](https://github.com/mahirsust/Code300) (Mahir)
+ - [Bangla NER](https://github.com/imranulashrafi/banner) (Imranul Ashrafi, Muntasir Mohammad, Arani Shawkat Mauree, Galib Md. Azraf Nijhum, Redwanul Karim, Nabeel Mohammed and Sifat Momen)
  - [Bengali NLP Library(BNLP)](https://github.com/sagorbrur/bnlp) (Sagor)
  - [Emoji to Bengali Text Translation - Python package for NLP](https://github.com/faruk-ahmad/bnemo) (Faruk & Sagor)
  - [Bangla BERT Model](https://huggingface.co/sagorsarker/bangla-bert-base) (Sagor)

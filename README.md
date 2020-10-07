@@ -8,6 +8,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
   - Ridmik Keyboard ([Android](https://play.google.com/store/apps/details?id=ridmik.keyboard))
   - [OpenBangla Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
   - [Rokeya Keyboard Layout](https://github.com/MythicAngel/rokeya-keyboard-layout)
+  - Borno Keyboard ([Windows](https://codepotro.com/borno), [Android](https://codepotro.com/borno-android))
 
 ### Libraries
   - Avro Phonetic Library ([JavaScript](https://github.com/torifat/jsAvroPhonetic), [Go](https://github.com/sadlil/go-avro-phonetic), [C++](https://github.com/mominul/cppAvroPhonetic))

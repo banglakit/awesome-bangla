@@ -39,6 +39,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Open Subtitle Parallel Corpus](http://opus.nlpl.eu/)
  - [Bengali-English Translation Dataset](http://www.manythings.org/anki/)
  - [Bengali Female vs Male Names Dataset for NLP Tasks](https://github.com/faruk-ahmad/bengli-female-vs-male-names)
+ - [BanglaEmotion: A Benchmark Dataset for Bangla Textual Emotion Analysis](https://data.mendeley.com/datasets/24xd7w7dhp/1) (CU, Chittagong)
 
 ## NLP Tools, Scripts and Utilities (also Projects)
 ### NLP Tools

@@ -106,6 +106,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Koro (Go in Bangla)](https://github.com/ChimeraCoder/koro)
  - [Potaka](http://www.potaka.io/)
  - [ChaScript](https://github.com/sjishan/chascript) (Syed Tanveer Jishan)
+ - [Pakhi](https://github.com/Shafin098/pakhi-bhasha) (Shafin Ashraf)
 
 ## Websites
 - [Society for Natural Language Technology Research](http://nltr.org/)

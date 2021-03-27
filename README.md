@@ -67,6 +67,8 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Emoji to Bengali Text Translation - Python package for NLP](https://github.com/faruk-ahmad/bnemo) (Faruk & Sagor)
  - [Bangla BERT Model](https://huggingface.co/sagorsarker/bangla-bert-base) (Sagor)
  - [Bangla Word2Vec] (https://github.com/menon92/Bangla-Word2Vec) (Mehadi Hasan Menon)
+ - [Bangla NLP Toolkit](https://github.com/Foysal87/sbnltk) (Foysal)
+
 
  ### Dictionary
   - [Bengali Lexical Dictionary (2012)](https://github.com/abhishekgupta92/lexical_db_bangla) (Abhishek Gupta)

@@ -115,3 +115,5 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 - [Society for Natural Language Technology Research](http://nltr.org/)
 - [Center for Research on Bangla Language Processing, BRACU (Backup Mirror)](http://web.archive.org/web/20150621025544/http://crblp.bracu.ac.bd/)
 
+## Bangladesh Related
+- [Bangladesh District to Division (জেলা থেকে বিভাগ) Mapping in Python Dictionary](https://gist.github.com/yasserius/e9678a4b1f10ac954a483d6624685084)

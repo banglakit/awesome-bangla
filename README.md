@@ -4,7 +4,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 ## Typing Tools and Keyboards
 
 ### End-User Products
-  - Avro Keyboard ([Windows](https://www.omicronlab.com/avro-keyboard.html), [Mac](https://www.omicronlab.com/iavro.html), [Linux](http://linux.omicronlab.com/), [Ubuntu 16.04+](https://github.com/maateen/avro))
+  - Avro Keyboard ([Windows](https://www.omicronlab.com/avro-keyboard.html), [Mac](https://www.omicronlab.com/iavro.html), [Linux](http://linux.omicronlab.com/), [Ubuntu 16.04+](https://github.com/maateen/avro), [Online](https://avro.im/))
   - Ridmik Keyboard ([Android](https://play.google.com/store/apps/details?id=ridmik.keyboard))
   - [OpenBangla Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
   - [Rokeya Keyboard Layout](https://github.com/MythicAngel/rokeya-keyboard-layout)
@@ -18,7 +18,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
   - [bijoy2unicode](https://github.com/Mad-FOX/bijoy2unicode) - A Python package for bidirectional conversion between Bijoy encoding and Unicode Bangla.
 
 ### Fixed and Phonetic Input specifications
- - https://en.wikipedia.org/wiki/Bengali_input_methods
+ - [Bengali input methods](https://en.wikipedia.org/wiki/Bengali_input_methods)
 
 ## Corpora (Corpus) and Datasets
  - [Corpus Builder](https://github.com/banglakit/corpus-builder) (Aniruddha Adhikary et al, BanglaKit)

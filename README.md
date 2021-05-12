@@ -4,9 +4,10 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 ## Typing Tools and Keyboards
 
 ### End-User Products
-  - Avro Keyboard ([Windows](https://www.omicronlab.com/avro-keyboard.html), [Mac](https://www.omicronlab.com/iavro.html), [Linux](http://linux.omicronlab.com/), [Ubuntu 16.04+](https://github.com/maateen/avro), [Online](https://avro.im/))
+  - Avro Keyboard ([Windows](https://www.omicronlab.com/avro-keyboard.html), [Mac](https://www.omicronlab.com/iavro.html), [Linux](http://linux.omicronlab.com/), [Ubuntu](https://github.com/maateen/avro), [Online](https://avro.im/))
   - Ridmik Keyboard ([Android](https://play.google.com/store/apps/details?id=ridmik.keyboard))
   - [OpenBangla Keyboard](https://github.com/OpenBangla/OpenBangla-Keyboard)
+  - [Online Probhat Keyboard](https://mdminhazulhaque.github.io/probhat.im/)
   - [Rokeya Keyboard Layout](https://github.com/MythicAngel/rokeya-keyboard-layout)
   - Borno Keyboard ([Windows](https://codepotro.com/borno), [Android](https://codepotro.com/borno-android))
 
@@ -71,7 +72,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bangla NLP Toolkit](https://github.com/Foysal87/sbnltk) (Foysal)
 
 
- ### Dictionary
+### Dictionary
   - [Bengali Lexical Dictionary (2012)](https://github.com/abhishekgupta92/lexical_db_bangla) (Abhishek Gupta)
   - [Bengali Dictionary](https://github.com/MinhasKamal/BengaliDictionary) (Minhas Kamal)
   - [Cross-platform Bengali Dictionary (Go/QML)](https://github.com/monirz/wordgo) (Monir Zaman)
@@ -100,8 +101,6 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 ### Others
  - [Bengali Spell Checking](https://github.com/AnkurBD/bengali-spellcheck) (Ankur)
  - [Bagha - Personal Assistant](https://github.com/reyadrahman/Bagha) (Reyad Rahman)
- - [Avro Online](http://avro.im)
- - [Probhat Online](http://probhat.im)
  - [Bangla News Category Classification with Bidirectional LSTM](https://github.com/zabir-nabil/bangla-news-rnn) (Zabir Al Nazi)
  - [Aurthohin - Gibberish Bangla text generator](https://github.com/lifeparticle/Aurthohin)
  - [Bangla Word2Vec Training and Visualization](https://github.com/NuhashHaque/Bangla-Word2Vec-Training-and-Visualization) (Afnan UL Haque Nuhash)

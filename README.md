@@ -79,7 +79,10 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [BOCRA](https://github.com/deepayan/bocra) [R Package for Bengali OCR]
  - [Bengali OCR with CNN](https://github.com/sanjiv0975/Bengali_OCR) (Sanjiv)
  - [Bengali Handwritten OCR with CNN](https://github.com/bmabir17/bangla_inception) (BM Abir)
- 
+
+### Speech to Text
+-[Bangla Speech to Text](https://github.com/menon92/BangalASR) (Mehadi Hasan Menon)
+
 ### TTS
  - [Katha - Bangla TTS](https://sourceforge.net/projects/blp/files/Katha_Bangla_TTS/) (CRBLP, BRACU)
  - [Bengali-HTS (HMM-based Bangla TTS)](https://github.com/sankar-mukherjee/Bengali-HTS) (IIT, Kharagpur)

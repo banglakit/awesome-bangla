@@ -92,7 +92,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Handwritten OCR with CNN](https://github.com/bmabir17/bangla_inception) (BM Abir)
 
 ### Speech to Text
--[Bangla Speech to Text](https://github.com/menon92/BangalASR) (Mehadi Hasan Menon)
+ - [Bangla Speech to Text](https://github.com/menon92/BangalASR) (Mehadi Hasan Menon)
 
 ### TTS
  - [Katha - Bangla TTS](https://sourceforge.net/projects/blp/files/Katha_Bangla_TTS/) (CRBLP, BRACU)

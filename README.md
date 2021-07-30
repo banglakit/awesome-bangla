@@ -43,6 +43,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [BanglaEmotion: A Benchmark Dataset for Bangla Textual Emotion Analysis](https://data.mendeley.com/datasets/24xd7w7dhp/1) (CU, Chittagong)
  - [OSCAR: Open Super-large Crawled ALMAnaCH coRpus](https://oscar-corpus.com/)
  - [BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR)](https://data.mendeley.com/datasets/743k6dm543/1) (PUC, Chittagong)
+ - [Bangla Synthetic License Plates Dataset](https://github.com/zabir-nabil/bangla-synthetic-license-plates) (Zabir Al Nazi)
 
 ## NLP Tools, Scripts and Utilities (also Projects)
 ### NLP Tools

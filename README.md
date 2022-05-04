@@ -44,6 +44,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [OSCAR: Open Super-large Crawled ALMAnaCH coRpus](https://oscar-corpus.com/)
  - [BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR)](https://data.mendeley.com/datasets/743k6dm543/1) (PUC, Chittagong)
  - [Bangla Synthetic License Plates Dataset](https://github.com/zabir-nabil/bangla-synthetic-license-plates) (Zabir Al Nazi)
+ - [Bengali Speech Dataset](https://commonvoice.mozilla.org/bn/datasets) (Common Voice, Mozilla)
 
 ## NLP Tools, Scripts and Utilities (also Projects)
 ### NLP Tools

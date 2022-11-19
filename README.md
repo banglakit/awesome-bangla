@@ -94,7 +94,8 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Digit Classification](https://github.com/smafjal/CNN-Bengali-Digit-Classification-TF) (Md. Afjal Hossain)
  - [BOCRA](https://github.com/deepayan/bocra) [R Package for Bengali OCR]
  - [Bengali OCR with CNN](https://github.com/sanjiv0975/Bengali_OCR) (Sanjiv)
- - [Bengali Handwritten OCR with CNN](https://github.com/bmabir17/bangla_inception) (BM Abir)
+ - [Bengali Handwritten OCR with CNN](https://github.com/bmabir17/bangla_inception) (BM Abir
+ - [Synthetic data generation for Bangal OCR](https://github.com/menon92/BanglaText2Image) (Mehadi Hasan Menon)
 
 ### Speech to Text
  - [Bangla Speech to Text](https://github.com/menon92/BangalASR) (Mehadi Hasan Menon)

@@ -99,6 +99,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 
 ### Speech to Text
  - [Bangla Speech to Text](https://github.com/menon92/BangalASR) (Mehadi Hasan Menon)
+ - [BanglaSpeech2Text](https://github.com/shhossain/BanglaSpeech2Text) (Sifat)
 
 ### TTS
  - [Katha - Bangla TTS](https://sourceforge.net/projects/blp/files/Katha_Bangla_TTS/) (CRBLP, BRACU)

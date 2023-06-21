@@ -42,7 +42,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Female vs Male Names Dataset for NLP Tasks](https://github.com/faruk-ahmad/bengli-female-vs-male-names)
  - [BanglaEmotion: A Benchmark Dataset for Bangla Textual Emotion Analysis](https://data.mendeley.com/datasets/24xd7w7dhp/1) (CU, Chittagong)
  - [OSCAR: Open Super-large Crawled ALMAnaCH coRpus](https://oscar-corpus.com/)
- - [BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR)](https://data.mendeley.com/datasets/743k6dm543/1) (PUC, Chittagong)
+ - [BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR)](https://data.mendeley.com/datasets/743k6dm543/) (PUC, Chittagong)
  - [Bangla Synthetic License Plates Dataset](https://github.com/zabir-nabil/bangla-synthetic-license-plates) (Zabir Al Nazi)
  - [Bengali Speech Dataset](https://commonvoice.mozilla.org/bn/datasets) (Common Voice, Mozilla)
 
@@ -84,7 +84,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 ### Bangla Machine Translation
 - [Bangla to English Translator](https://github.com/menon92/BanglaTranslator) (Mehadi Hasan Menon)
 
-### OCR
+### OCR/HTR
  - [Bangla OCR](https://github.com/kmhasan-class/bangla-ocr) (kmhasan)
  - [Bangla OCR](https://sourceforge.net/projects/blp/files/BanglaOCR/) (CRBLP, BRACU)
  - [Bangla OCR](https://github.com/fnazmul/Bengali_OCR/) (Fariha Nazmul)
@@ -96,6 +96,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali OCR with CNN](https://github.com/sanjiv0975/Bengali_OCR) (Sanjiv)
  - [Bengali Handwritten OCR with CNN](https://github.com/bmabir17/bangla_inception) (BM Abir
  - [Synthetic data generation for Bangal OCR](https://github.com/menon92/BanglaText2Image) (Mehadi Hasan Menon)
+ - [Line and Word Segmentation for Bangla Handwritten Text Recognition (BN-DRISHTI)](https://github.com/crusnic-corp/BN-DRISHTI) (PUC/CU, Chittagong)
 
 ### Speech to Text
  - [Bangla Speech to Text](https://github.com/menon92/BangalASR) (Mehadi Hasan Menon)

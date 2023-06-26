@@ -121,6 +121,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [ChaScript](https://github.com/sjishan/chascript) (Syed Tanveer Jishan)
  - [Pakhi](https://github.com/Shafin098/pakhi-bhasha) (Shafin Ashraf)
  - [Pankti](https://github.com/bauripalash/pankti) (Palash Bauri)
+ - [Bengali-Alphabet](https://github.com/lifeparticle/Bengali-Alphabet)
 
 ## Websites
 - [Society for Natural Language Technology Research](http://nltr.org/)

@@ -107,6 +107,10 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - Apona Pathok - Bangla TTS (Lost)
  - [bangla-tts (Deep CNN based real-time (GPU) TTS)](https://github.com/zabir-nabil/bangla-tts) (Zabir Al Nazi)
 
+### Multi-modal
+ - [CLIP (Contrastive Language–Image Pre-training) implementation for Bangla](https://github.com/zabir-nabil/bangla-CLIP) (Zabir Al Nazi)
+ - [Multimodal Hate Speech Detection from Bengali Memes and Texts](https://github.com/rezacsedu/Multimodal-Hate-Bengali) (Rezaul Karim)
+
 ### Others
  - [Bengali Spell Checking](https://github.com/AnkurBD/bengali-spellcheck) (Ankur)
  - [Bangla Contextual Spell Checker](https://github.com/MahirMahbub/Contextual-Spell-Checker-For-Bangla) (Mahir Mahbub)
@@ -114,6 +118,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bangla News Category Classification with Bidirectional LSTM](https://github.com/zabir-nabil/bangla-news-rnn) (Zabir Al Nazi)
  - [Aurthohin - Gibberish Bangla text generator](https://github.com/lifeparticle/Aurthohin)
  - [Bangla Word2Vec Training and Visualization](https://github.com/NuhashHaque/Bangla-Word2Vec-Training-and-Visualization) (Afnan UL Haque Nuhash)
+ - [An image search and image-text matching system for Bangla using CLIP](https://github.com/zabir-nabil/bangla-image-search) (Zabir Al Nazi)
 
 ## Programming Langauages (?)
  - [Koro (Go in Bangla)](https://github.com/ChimeraCoder/koro)

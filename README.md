@@ -13,6 +13,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 
 ### Libraries
   - Avro Phonetic Library ([JavaScript](https://github.com/torifat/jsAvroPhonetic), [Go](https://github.com/sadlil/go-avro-phonetic), [C++](https://github.com/mominul/cppAvroPhonetic))
+  - [ইউনিভার্সাল কিবোর্ড সফটওয়্যার ‘ইউবোর্ড’ / UBoard](https://bangla.gov.bd/uboard/) [bangla.gov.bd]
   - [jQuery.IME](https://github.com/wikimedia/jquery.ime) - Supports Avro, Probhat, Inscript, National (BD)
   - [BengaliPhoneticParser.swift](https://github.com/OpenBangla/BengaliPhoneticParser.swift) (OpenBangla)
   - [Rupantor](https://github.com/OpenBangla/rupantor-rs) - A very flexible Bengali phonetic parser/converter written in Rust. It also supports Avro Phonetic. (OpenBangla)
@@ -85,6 +86,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 - [Bangla to English Translator](https://github.com/menon92/BanglaTranslator) (Mehadi Hasan Menon)
 
 ### OCR/HTR
+ - [Borno Bangla OCR](https://ocr.bangla.gov.bd/) (bangla.gov.bd)
  - [Bangla OCR](https://github.com/kmhasan-class/bangla-ocr) (kmhasan)
  - [Bangla OCR](https://sourceforge.net/projects/blp/files/BanglaOCR/) (CRBLP, BRACU)
  - [Bangla OCR](https://github.com/fnazmul/Bengali_OCR/) (Fariha Nazmul)
@@ -99,9 +101,11 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Line and Word Segmentation for Bangla Handwritten Text Recognition (BN-DRISHTI)](https://github.com/crusnic-corp/BN-DRISHTI) (PUC/CU, Chittagong)
 
 ### Speech to Text
+ - [voice.bangla.gov.bd](https://voice.bangla.gov.bd/)
  - [Bangla Speech to Text](https://github.com/menon92/BangalASR) (Mehadi Hasan Menon)
 
 ### TTS
+ - [read.bangla.gov.bd](https://read.bangla.gov.bd/)
  - [Katha - Bangla TTS](https://sourceforge.net/projects/blp/files/Katha_Bangla_TTS/) (CRBLP, BRACU)
  - [Bengali-HTS (HMM-based Bangla TTS)](https://github.com/sankar-mukherjee/Bengali-HTS) (IIT, Kharagpur)
  - Apona Pathok - Bangla TTS (Lost)
@@ -132,3 +136,6 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 - [Society for Natural Language Technology Research](http://nltr.org/)
 - [Center for Research on Bangla Language Processing, BRACU (Backup Mirror)](http://web.archive.org/web/20150621025544/http://crblp.bracu.ac.bd/)
 
+## Fonts
+- [bangla.gov.bd](https://bangla.gov.bd/fonts/)
+- [lipighor.com](https://lipighor.com/)

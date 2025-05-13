@@ -46,6 +46,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition (HTR)](https://data.mendeley.com/datasets/743k6dm543/) (PUC, Chittagong)
  - [Bangla Synthetic License Plates Dataset](https://github.com/zabir-nabil/bangla-synthetic-license-plates) (Zabir Al Nazi)
  - [Bengali Speech Dataset](https://commonvoice.mozilla.org/bn/datasets) (Common Voice, Mozilla)
+ - [MediBeng Synthetic Code-Mixed Bengali-English Speech Dataset (GitHub)](https://github.com/pr0mila/ParquetToHuggingFace) | [MediBeng Synthetic Code-Mixed Bengali-English Speech Dataset (Hugging Face)](https://huggingface.co/datasets/pr0mila-gh0sh/MediBeng) (Promila Ghosh)
 
 ## NLP Tools, Scripts and Utilities (also Projects)
 ### NLP Tools
@@ -84,6 +85,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 
 ### Bangla Machine Translation
 - [Bangla to English Translator](https://github.com/menon92/BanglaTranslator) (Mehadi Hasan Menon)
+- [MediBeng Whisper Tiny Mixed Bengali-English to English (GitHub)](https://github.com/pr0mila/MediBeng-Whisper-Tiny) | [MediBeng Whisper Tiny Mixed Bengali-English to English (Hugging Face)](https://huggingface.co/pr0mila-gh0sh/MediBeng-Whisper-Tiny) (Promila Ghosh)
 
 ### OCR/HTR
  - [Borno Bangla OCR](https://ocr.bangla.gov.bd/) (bangla.gov.bd)
@@ -103,6 +105,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
 ### Speech to Text
  - [voice.bangla.gov.bd](https://voice.bangla.gov.bd/)
  - [Bangla Speech to Text](https://github.com/menon92/BangalASR) (Mehadi Hasan Menon)
+
 
 ### TTS
  - [read.bangla.gov.bd](https://read.bangla.gov.bd/)

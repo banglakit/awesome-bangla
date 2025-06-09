@@ -10,7 +10,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
   - [Online Probhat Keyboard](https://mdminhazulhaque.github.io/probhat.im/)
   - [Rokeya Keyboard Layout](https://github.com/MythicAngel/rokeya-keyboard-layout)
   - Borno Keyboard ([Windows](https://codepotro.com/borno), [Android](https://codepotro.com/borno-android))
-
+  - [Probhat Keyboard for Mac OSX](https://github.com/bdeshi/probhat-mac-osx)
 ### Libraries
   - Avro Phonetic Library ([JavaScript](https://github.com/torifat/jsAvroPhonetic), [Go](https://github.com/sadlil/go-avro-phonetic), [C++](https://github.com/mominul/cppAvroPhonetic))
   - [ইউনিভার্সাল কিবোর্ড সফটওয়্যার ‘ইউবোর্ড’ / UBoard](https://bangla.gov.bd/uboard/) [bangla.gov.bd]

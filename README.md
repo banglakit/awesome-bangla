@@ -34,6 +34,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
  - [Bengali Stopwords List](https://github.com/stopwords-iso/stopwords-bn) (stopwords-iso)
  - [Bangla TTS Speech Corpus](http://www.openslr.org/37) (Google)
  - [Large Bengali ASR Dataset](http://www.openslr.org/53) (Google)
+ - [Lipighor 882 sstt bn(Bangla ASR(long, short form) and Diarization Dataset](https://huggingface.co/datasets/Sanjidh090/Lipi-Ghor-bn-882-SSTT)( DL Sprint 4.0 -Team Villagers )
  - [Ekush: Bangla Handwritten Characters](https://shahariarrabby.github.io/ekush) ([DIU](http://nlp.daffodilvarsity.edu.bd), Dhaka)
  - [ISHARA-LIPI: Bangla Sign Language Digits and Characters](https://isharalipi.sanzidscloud.com) ([DIU](http://nlp.daffodilvarsity.edu.bd), Dhaka
  - [Bengali Large Commoncrawl Dataset](https://traces1.inria.fr/oscar/)

@@ -18,6 +18,7 @@ A collection of tools, datasets and resources on Bangla computing. This list was
   - [BengaliPhoneticParser.swift](https://github.com/OpenBangla/BengaliPhoneticParser.swift) (OpenBangla)
   - [Rupantor](https://github.com/OpenBangla/rupantor-rs) - A very flexible Bengali phonetic parser/converter written in Rust. It also supports Avro Phonetic. (OpenBangla)
   - [bijoy2unicode](https://github.com/Mad-FOX/bijoy2unicode) - A Python package for bidirectional conversion between Bijoy encoding and Unicode Bangla.
+  - [ansibangla](https://github.com/ragib06/ansibangla) - A Python package and CLI that converts Bijoy (SutonnyMJ) PDF and Word files to Unicode Bangla while keeping their layout, with PDF, DOCX, EPUB and Markdown output. Also runs in the browser as a [web app](https://ansibangla.cc/).
 
 ### Fixed and Phonetic Input specifications
  - [Bengali input methods](https://en.wikipedia.org/wiki/Bengali_input_methods)
